@@ -1,0 +1,79 @@
+img {
+    border-radius: 20px;
+    width: 240px;
+    height: 240px;
+  }
+  
+  .navbar {
+    font-size: 15px;
+    background-color: rgba(49, 12, 12, 0.838);
+    color: white;
+    padding: 10px;
+  }
+  .nav-item {
+    font-size: 18px;
+    padding: 10px;
+  }
+  .header {
+    font-size: 37px;
+    margin: 2.5% 0 2.5% 0;
+    color: rgba(49, 12, 12, 0.838);
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .header-dish {
+    font-size: 30px;
+    color: rgba(49, 12, 12, 0.838);
+    text-align: center;
+    font-weight: 800;
+  }
+  .chinese {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  .chinese1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  .italian {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  .italian1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .italian2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  .food{
+    align-items: stretch;
+    font-size: 15px;
+    background-color: rgba(49, 12, 12, 0.838);
+    color: #FFFFFF;
+    margin: 30px  30px;
+    border-radius: 0px;
+    width: 250px;
+    height: auto;
+    padding: 5px;
+    padding-right: 0;
+  }
+  .food-box{
+    font-weight: 800;
+    font-size: 18px;
+    color: #FFFFFF;
+  }
